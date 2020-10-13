@@ -1,0 +1,12 @@
+5eNPCMaker
+=================================
+- is used as interactively in terminal or through command-line
+- is also packaged as python package and module
+- makes npc generation as fast or as in-depth as user wants
+- generates name from fantasy name generator website or from built in options
+- lets user specify source book, background, race, ifcaster, class if any, family, etc
+  either from mount and blade esque steps or through xgte method
+- provides output options in .txt, .md, .pdf, .rtf, .json, or .xml formats
+- allows user to specify output path
+- allows user to configure the program to specifications
+- shows progress bars when needed
